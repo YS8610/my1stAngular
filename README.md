@@ -1,6 +1,7 @@
 # My1stAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
+Sample Website = https://ys8610.github.io/my1stAngular
 
 ## Development server
 
